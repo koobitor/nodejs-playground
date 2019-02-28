@@ -5,7 +5,11 @@
   "repository": "git@github.com:koobitor/nodejs-playground.git",
   "author": "Sakol Assawasagool <koobitor@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "node-cron": "^2.0.3"
   }
 }
