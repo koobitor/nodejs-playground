@@ -6,7 +6,7 @@
   "author": "Sakol Assawasagool <koobitor@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "node server.js"
+    "dev": "ndb nodemon server.js"
   },
   "dependencies": {
     "express": "^4.16.4",
@@ -16,6 +16,7 @@
     "rotating-file-stream": "^1.4.0"
   },
   "devDependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "nodemon": "^1.18.10"
   }
 }
