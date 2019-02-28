@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:koobitor/nodejs-playground.git",
+  "author": "Sakol Assawasagool <koobitor@gmail.com>",
+  "license": "MIT"
+}
